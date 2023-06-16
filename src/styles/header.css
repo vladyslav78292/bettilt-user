@@ -4,6 +4,7 @@
   margin-left: 99px;
   margin-right: 116px;
   padding-top: 14px;
+  align-items: center;
   z-index: 32;
   position: absolute;
   width: calc(100% - 215px);
